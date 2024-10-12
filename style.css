@@ -1,0 +1,14 @@
+body {
+    background-color: #c7fff2;
+    font-family: cursive,sans-serif;
+}
+
+h1 {
+    color:rgb(51,51,52,0.7);
+    text-align:center;
+}
+
+p {
+    color: purple;
+    font-size:2em;
+}
