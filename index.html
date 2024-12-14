@@ -75,7 +75,12 @@
         <br>
         <a href="#start">Вернуться в начало</a>
         <br>
-        <button class="my_button">Нажми на меня</button>
+        <button class="my_button" id="myButton">Нажми на меня</button>
+        <script>
+            document.getElementById("myButton").onclick = function() {
+                alert("Рады приветствовать Вас на нашем сайте!")
+            };
+        </script>
 </aside>
 </main>
 <footer>
